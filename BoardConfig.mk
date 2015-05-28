@@ -29,8 +29,8 @@ TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
 TARGET_KERNEL_CONFIG := cyanogenmod_n7000_defconfig
 
 # Inline kernel building lp
-TARGET_TC_KERNEL := 6.0-linaro
-TARGET_TC_ROM    := 4.9-linar0
+TARGET_TC_KERNEL := 4.9-linaro
+TARGET_TC_ROM    := 4.9-linaro
 
 # Optimizations
  AUZONEIFY := true
